@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:38bdf8&height=200&section=header&text=Hola,%20soy%20Ger%C3%B3nimo&fontSize=40&fontColor=ffffff&desc=Network%20%26%20Systems%20Administrator%20%C2%B7%20MikroTik%20%C2%B7%20RADIUS%2FLDAP%20%C2%B7%20Docker&descSize=18&descAlignY=62&animation=fadeIn)
+![Header](banner.svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ger%C3%B3nimo%20Donaire-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/geronimo-donaire)
 
@@ -18,7 +18,7 @@ recuperación ante desastres, y automatización de despliegues con Ansible.
 
 |  |  |
 |---|---|
-| 🏢 **Trabajando en** | Grupo Hoteles Playa — redes e infraestructura multi-sede (10+ propiedades) |
+| 🏢 **Trabajando en** | Grupo Hoteles Playa — redes e infraestructura multi-sede (+30 sedes) |
 | ⚙️ **Stack habitual** | MikroTik · Cisco · Ubiquiti · Fortinet · FreeRADIUS/OpenLDAP · Docker · Ansible · Grafana/Loki |
 | ☁️ **Cloud** | Google Cloud (Kubernetes) · Microsoft 365 / Azure |
 | 📫 **Contacto** | [LinkedIn](https://linkedin.com/in/geronimo-donaire) · gero6700@gmail.com |
