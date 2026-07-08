@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](banner.svg)
+![Header](https://cdn.jsdelivr.net/gh/Gero6700/Gero6700@main/banner.svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ger%C3%B3nimo%20Donaire-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/geronimo-donaire)
 
