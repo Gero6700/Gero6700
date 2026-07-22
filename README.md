@@ -20,9 +20,3 @@ recuperación ante desastres, y automatización de despliegues con Ansible.
 | ⚙️ **Stack habitual** | MikroTik · Cisco · Ubiquiti · Fortinet · FreeRADIUS/OpenLDAP · Docker · Ansible · Grafana/Loki |
 | ☁️ **Cloud** | Google Cloud (Kubernetes) · Microsoft 365 / Azure |
 | 📫 **Contacto** | [LinkedIn](https://linkedin.com/in/geronimo-donaire) · gero6700@gmail.com |
-
-**A lo que le doy prioridad:**
-- Seguridad por defecto: mínimo privilegio, binds dedicados, rotación de secretos.
-- Todo configurable por variables de entorno — nada de valores fijos que te aten a
-  una topología concreta.
-- Documentación como parte del trabajo, no como un añadido de última hora.
